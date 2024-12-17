@@ -10,7 +10,7 @@ The template provides you with the basic structure of a Python project: logging 
 
 Below is the architecture diagram for the bot workflow:
 
-![Architecture Diagram](./images/abstract-architecture_model.png)
+[Architecture Diagram](./images/abstract-architecture_model.png)
 
 > This flowchart illustrates the bot's state transitions, data flow, and core functionalities.
 
